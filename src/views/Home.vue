@@ -1,13 +1,13 @@
 <template>
-  <HelloWorld />
+  <Workspace />
 </template>
 
 <script>
-import HelloWorld from '../components/HelloWorld.vue';
+import Workspace from '../components/Workspace.vue';
 
 export default {
   components: {
-    HelloWorld,
+    Workspace,
   },
 };
 </script>
